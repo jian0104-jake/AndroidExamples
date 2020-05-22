@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidExamples</string>
+    <string name = "hello">Bonjour a Tous in CA!</string>
+</resources>
